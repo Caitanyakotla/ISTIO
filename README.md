@@ -1,6 +1,4 @@
-# ISTIO
-
-************Canary Deployments using Istio**************************
+Canary Deployments using Istio
 
 # Also ensure corresponding Kubernetes pods are deployed and have a STATUS of Running:
 # kubectl get pods -n istio-system
